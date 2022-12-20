@@ -1,0 +1,8 @@
+food_item individual_calories
+turkey 480
+mashed_potatoes_&_gravy 257
+stuffing 350
+cranberry_sauce 257
+pumpkin_pie 350
+sweet_potato_casserole 305
+green_bean_casserole 99
